@@ -1,1 +1,7 @@
 remotetest
+
+git remote add origin https://github.com/benpaoqumai/learngit
+
+
+git remote add origin https://github.com/benpaoqumai/learngit
+git remote add origin https://github.com/benpaoqumai/learngit

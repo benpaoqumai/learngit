@@ -8,4 +8,4 @@ git remote add origin https://github.com/benpaoqumai/learngit.git
 Creating a new branch is quick.
 
 
-new  test
+Git is a free software ...

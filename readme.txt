@@ -6,3 +6,5 @@ Git tracks changes of files.
 git remote add origin https://github.com/benpaoqumai/learngit.git
 
 Creating a new branch is quick.
+
+Creating a new branch is quick.
